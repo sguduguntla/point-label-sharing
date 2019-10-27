@@ -1,5 +1,7 @@
 ## Dataset: An Open Dataset and Collection Tool for BMS Point Labels
 
+[Link to Paper: Dataset: An Open Dataset and Collection Tool for BMS Point Labels](https://brickschema.org/papers/BuildingMetadataDataset-DATA-2019-Fierro.pdf)
+
 ## Questions
 
 **1. What makes me proud of this piece of work?**
